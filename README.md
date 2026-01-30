@@ -4,7 +4,7 @@ FormForge is a lightweight form platform that allows forms to be created, embedd
 
 ---
 
-## ⚠️ Usage Notice
+# ⚠️ Usage Notice
 
 This repository is shared for visibility and reference only.
 
