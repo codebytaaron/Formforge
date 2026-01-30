@@ -1,0 +1,8 @@
+{
+  "name": "formforge",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^9.4.0"
+  }
+}
